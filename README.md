@@ -1,1 +1,1 @@
-跳转GitHub 仓库（https://github.com/InternLM/Tutorial）
+跳转GitHub 仓库（https://github.com/InternLM/Tutorial ）
